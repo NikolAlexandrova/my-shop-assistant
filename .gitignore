@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Dependencies
+/node_modules/
+
+# Environment variables (never commit secrets)
+.env
+
+# React Router build artifacts
+/.react-router/
+/build/
